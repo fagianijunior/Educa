@@ -29,6 +29,7 @@ $template = getTemplate( 'templates/dicas.html' );
 $templateFinal = parseTemplate( $template, $arrTags );
 
 echo $templateFinal;
+?>
    <section>
 		<article>
 			<header>
@@ -38,6 +39,6 @@ echo $templateFinal;
 		</article>
 	</section>
 	<footer>{rodape}</footer>
-	?>
+:)
 </body>
 </html>
